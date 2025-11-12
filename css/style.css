@@ -49,3 +49,8 @@ figcaption {
     box-shadow: 10px 20px 30px rgba(0, 0, 120, .5);
 }
 
+#infoDemografia{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
